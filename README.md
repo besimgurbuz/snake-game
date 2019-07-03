@@ -1,2 +1,2 @@
-﻿# Snake Game with Vanilla JavaScript
+﻿## Snake Game with Pure JavaScript
  
