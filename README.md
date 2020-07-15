@@ -1,7 +1,5 @@
 ﻿# Snake Game
 
-Game coded with pure js<br>
-
 ## Setup
 Download the source open index.html on your browser and that's it. Have fun. <br>
 
